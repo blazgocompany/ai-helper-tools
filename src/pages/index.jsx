@@ -11,6 +11,11 @@ export default function App() {
           title={"Writing"}
           desc={"Write a story, article, paragraph"}
         />
+        <Card
+          link={"ai8labs.pages.dev"}
+          title={"AI8"}
+          desc={"Experience innovation with AI8's advanced AI solutions, for free."}
+        />
       </section>
     </main>
   );
