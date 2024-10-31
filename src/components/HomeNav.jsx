@@ -8,7 +8,7 @@ export function HomeNav() {
         href={"/"}
         className="text-white text-2xl font-bold hover:backdrop-blur dark:text-gray-200"
       >
-        Gemini Tools
+        AI Tools
       </Link>
       <DarkModeToggle />
     </nav>
